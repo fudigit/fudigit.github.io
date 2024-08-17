@@ -1,4 +1,4 @@
-- name: Dr. Ryan D. Morin
+- name: Dr. Xu Feng
   is_pi: True
   is_current: True
   position: Professor
@@ -8,21 +8,9 @@
   github: https://github.com/rdmorin
   twitter: https://twitter.com/morinryan
   bio: >
-    I am in the department of <a href="http://www.sfu.ca/mbb.html">Molecular Biology and Biochemistry</a> at
-    <a href="http://www.sfu.ca">Simon Fraser University</a> and hold a Scientist appointment in the <a href="http://www.bcgsc.ca">BC Cancer Genome Sciences Centre</a>.
-    I completed my MSc and PhD in bioinformatics at UBC in the laboratory of
-    Marco Marra.
-    My early research involved the use of massively parallel
-    sequencing to identify driver mutations in leukemias and lymphomas
-    including histone modifiers such as <a href="https://www.ncbi.nlm.nih.gov/pubmed/20081860">EZH2</a> and <a href="https://www.ncbi.nlm.nih.gov/pubmed/21796119">KMT2D</a>.
-    My current research focus involves using genome and transcriptome
-    sequencing to discover novel drivers in B-cell lymphomas and to
-    determine mechanisms that underlie tumour progression and treatment
-    resistance.
-    I have a general interest in developing methods to identify non-coding
-    mutations with regulatory potential from genome-wide data sets and
-    error-corrected sequencing strategies and algorithms to identify mutations and copy number from circulating
-    tumour DNA (<a href="https://www.ncbi.nlm.nih.gov/pubmed/28874686">ctDNA</a>). Dr. Morin is a Scholar of the <a href="https://www.msfhr.org/">Michael Smith Foundation for Health Research</a>.
+    Dr. Xu Feng is an Assistant Professor of Bioengineering at UT Dallas, the Principal Investigator of the Biomedical Optical Imaging Laboratory, and a NIH-FIRST scholar. She has demonstrated excellence in the field of optical diagnostic imaging. Before joining UT Dallas, Dr. Feng completed her postdoctoral training at the Wellman Center for Photomedicine at Harvard Medical School and Mass General Hospital, where she developed novel optical coherence elastography (OCE) techniques for in vivo detection of human corneal and skin biomechanics. During her PhD studies at UT Austin, she has advanced the clinical translation of Raman spectroscopy for skin cancer diagnosis. 
+​
+    The Feng Lab focus on developing novel optical imaging and elastography techniques for tissue diagnostics. We aim to develop safe, painless, and precise optical diagnostic tools to address unmet clinical needs. We have established strong collaborations with researchers and medical doctors from UT Southwestern Medical Center, Harvard Medical School, Massachusetts General Hospital, Mass Eye and Ear Hospital, and UT Dell Medical School. 
 
   photo: team/Morin_headshot_2019.gif
 
